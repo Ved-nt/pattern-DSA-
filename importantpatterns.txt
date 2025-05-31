@@ -1,0 +1,77 @@
+1. Sliding Window
+— Logic: Used for problems dealing with subarrays/substrings or “windows” of a fixed or variable size.
+— Clue to find problems: Look for descriptions involving “subarray,” “contiguous,” “window size,” or questions about finding max/min/sum in a window.
+— Keywords: subarray, window, consecutive, fixed size, substring, contiguous
+
+
+2. Two Pointers
+— Logic: Great for problems where you scan an array from both ends, remove duplicates, or partition/sort efficiently.
+— Clue to find problems: Look for problem descriptions mentioning a sorted array or the need to compare elements from both ends of the array.
+— Keywords: sorted, left/right, opposite ends, pair sum, move pointers, partition
+
+
+3. Prefix Sum
+— Logic: Efficiently computes the sum of elements in a range, often in O(1) after preprocessing.
+— Clue to find problems: Questions about cumulative sums, range queries, or “sum between indices.”
+— Keywords: cumulative, sum, range sum, running total, precompute, difference
+
+
+4. Tree Traversal
+— Logic: Used for exploring all nodes in a tree, preorder, inorder, postorder.
+— Clue to find problems: Mentions of binary tree traversals, printing nodes in specific orders, or “root/left/right.”
+— Keywords: binary tree, root, left/right, preorder, inorder, postorder
+
+5. DFS (Depth-First Search)
+— Logic: Explores as far as possible along each branch before backtracking; used in trees, graphs, puzzles.
+— Clue to find problems: Look for recursive exploration, “find all paths,” or visiting every node.
+— Keywords: recursion, stack, path, explore, graph/tree, visited/unvisited
+
+6. BFS (Breadth-First Search)
+— Logic: Visits all nodes at a given depth before moving deeper; used for shortest path and “level order” problems.
+— Clue to find problems: Questions about shortest path, minimum moves, or “level order traversal.”
+— Keywords: queue, shortest path, level, neighbors, layers, graph/tree
+
+7. Matrix Traversal
+— Logic: Used for grid/2D array problems; searching cells in all directions.
+— Clue to find problems: Grid-based, 2D movement, or “visit all connected cells.”
+— Keywords: grid, 2D array, up/down/left/right, neighbors, rows, columns
+
+8. Backtracking
+— Logic: Systematically tries options and undoes choices when stuck; used in permutations, combinations, sudoku, N-queens.
+— Clue to find problems: “Find all solutions,” “permutations/combinations,” or “try every possibility.”
+— Keywords: permutation, combination, path, recursive, choices, undo
+
+9. Dynamic Programming
+— Logic: Breaks problems into overlapping subproblems, stores results to avoid recomputation.
+— Clue to find problems: Look for optimal substructure, “maximum/minimum/number of ways,” or “can you reach X.”
+— Keywords: subproblem, optimal, memoization, table, recurrence, state
+
+10. Fast & Slow Pointers
+— Logic: Cycle detection, finding the middle, detecting intersections (especially in linked lists).
+— Clue to find problems: Linked lists with “cycle,” “find the start of loop,” or “middle element.”
+— Keywords: cycle, loop, linked list, fast/slow, tortoise/hare, detect
+
+11. In-Place Reversal
+— Logic: Reverse parts of arrays or lists without extra space.
+— Clue to find problems: “Reverse” or “rotate” in-place, modify arrays/lists without using extra space.
+— Keywords: reverse, swap, rotate, in-place, modify array/list, two pointers
+
+12. Monotonic Stack
+— Logic: Maintains stack with increasing/decreasing elements for “next greater/smaller” problems.
+— Clue to find problems: “Next greater element,” “next smaller,” or “span” problems.
+— Keywords: stack, next greater, next smaller, increasing, decreasing, span
+
+13. Binary Search
+— Logic: Efficient searching on sorted data or to find “minimum/maximum possible answer.”
+— Clue to find problems: “Find X in a sorted array,” “minimum largest value,” or “can you achieve X with Y.”
+— Keywords: sorted, search, low/high, left/right, find, condition
+
+14. Top K Element (Heap)
+— Logic: Find K largest/smallest, running medians, or frequency-based selections using heaps.
+— Clue to find problems: “Find K largest/smallest,” “K most frequent,” or “running median.”
+— Keywords: K largest, heap, priority queue, min/max, frequent, selection
+
+15. Overlapping Intervals
+— Logic: Problems like merging intervals, meeting rooms, insert/delete in sorted intervals.
+— Clue to find problems: “Intervals,” “merge,” “overlap,” or “meeting rooms” in the description.
+— Keywords: intervals, merge, overlap, schedule, sort by start, meeting
